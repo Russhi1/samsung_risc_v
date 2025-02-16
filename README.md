@@ -1,2 +1,1 @@
 # Samsung- RISC-V
-n 
